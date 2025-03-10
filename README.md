@@ -1,4 +1,4 @@
-<h2 align="center">Me chamo Juan e sou Programador Backend Python 🐍💻</h2>
+<h2 align="center">Eu sou o Jota e sou Programador Backend Python 🐍💻</h2>
 
 ###
 
