@@ -1,5 +1,3 @@
-# profile
-
 <h1 align="center">Eai 👋 Ficou curioso né?</h1>
 
 ###
