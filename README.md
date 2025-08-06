@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Juan (ou jota), sou estudante de Ciência da Computação e aqui vou compartilhar meus projetos, alguns pessoais que forem do meu interesse e outos profissionais. Tambem gosto de criar conteúdo na internet, como vídeos, lives, essas coisas. Mas raramente são conteúdos relacionados a minha área, tirando os projetos pessoais que quero divulgar.🫵 Se quise entrar em contato comigo por algum motivo, pode me encontrar nesses lugares abaixo. 👇</p>
+<p align="left">Meu nome é Juan (ou Runnan), sou estudante de Ciência da Computação e aqui vou compartilhar meus projetos, alguns pessoais que forem do meu interesse e outos profissionais. Tambem gosto de criar conteúdo na internet, como vídeos, lives, essas coisas. Mas raramente são conteúdos relacionados a minha área, tirando os projetos pessoais que quero divulgar.🫵 Se quise entrar em contato comigo por algum motivo, pode me encontrar nesses lugares abaixo. 👇</p>
 
 ###
 
